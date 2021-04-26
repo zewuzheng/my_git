@@ -1,0 +1,698 @@
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-22 15:48:49,563	INFO scripts.py:429 -- Using IP address 192.168.1.3 for this node.
+2021-04-22 15:48:50,594	INFO resource_spec.py:212 -- Starting Ray with 595.17 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-22 15:48:50,619	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-22 15:50:10,683	INFO scripts.py:429 -- Using IP address 192.168.1.3 for this node.
+2021-04-22 15:50:11,712	INFO resource_spec.py:212 -- Starting Ray with 595.31 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-22 15:50:11,737	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-22 15:59:17,595	INFO scripts.py:429 -- Using IP address 192.168.1.3 for this node.
+2021-04-22 15:59:18,626	INFO resource_spec.py:212 -- Starting Ray with 595.31 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-22 15:59:18,647	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-22 16:00:30,140	INFO scripts.py:429 -- Using IP address 192.168.1.3 for this node.
+2021-04-22 16:00:31,170	INFO resource_spec.py:212 -- Starting Ray with 594.87 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-22 16:00:31,191	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-22 16:02:11,163	INFO scripts.py:429 -- Using IP address 192.168.1.3 for this node.
+2021-04-22 16:02:12,194	INFO resource_spec.py:212 -- Starting Ray with 594.92 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-22 16:02:12,217	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-22 16:03:12,155	INFO scripts.py:429 -- Using IP address 192.168.1.3 for this node.
+2021-04-22 16:03:13,186	INFO resource_spec.py:212 -- Starting Ray with 594.92 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-22 16:03:13,209	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-22 16:04:31,515	INFO scripts.py:429 -- Using IP address 192.168.1.3 for this node.
+2021-04-22 16:04:32,544	INFO resource_spec.py:212 -- Starting Ray with 595.02 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-22 16:04:32,565	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-22 16:06:01,087	INFO scripts.py:429 -- Using IP address 192.168.1.3 for this node.
+2021-04-22 16:06:02,117	INFO resource_spec.py:212 -- Starting Ray with 595.21 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-22 16:06:02,141	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-22 16:07:29,819	INFO scripts.py:429 -- Using IP address 192.168.1.3 for this node.
+2021-04-22 16:07:30,851	INFO resource_spec.py:212 -- Starting Ray with 595.21 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-22 16:07:30,873	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-22 16:24:22,491	INFO scripts.py:429 -- Using IP address 192.168.1.3 for this node.
+2021-04-22 16:24:23,519	INFO resource_spec.py:212 -- Starting Ray with 595.17 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-22 16:24:23,541	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-22 16:28:20,796	INFO scripts.py:429 -- Using IP address 192.168.1.3 for this node.
+2021-04-22 16:28:21,825	INFO resource_spec.py:212 -- Starting Ray with 595.12 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-22 16:28:21,847	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-22 16:29:29,535	INFO scripts.py:429 -- Using IP address 192.168.1.3 for this node.
+2021-04-22 16:29:30,562	INFO resource_spec.py:212 -- Starting Ray with 594.82 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-22 16:29:30,586	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-22 16:30:53,467	INFO scripts.py:429 -- Using IP address 192.168.1.3 for this node.
+2021-04-22 16:30:54,497	INFO resource_spec.py:212 -- Starting Ray with 594.92 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-22 16:30:54,521	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-22 16:40:13,275	INFO scripts.py:429 -- Using IP address 192.168.1.3 for this node.
+2021-04-22 16:40:14,306	INFO resource_spec.py:212 -- Starting Ray with 601.37 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-22 16:40:14,331	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-22 16:41:26,523	INFO scripts.py:429 -- Using IP address 192.168.1.3 for this node.
+2021-04-22 16:41:27,554	INFO resource_spec.py:212 -- Starting Ray with 601.32 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-22 16:41:27,577	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-22 16:50:19,579	INFO scripts.py:429 -- Using IP address 192.168.1.3 for this node.
+2021-04-22 16:50:20,609	INFO resource_spec.py:212 -- Starting Ray with 601.32 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-22 16:50:20,631	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+Traceback (most recent call last):
+  File "/home/zzw/anaconda3/envs/zzw_agbird/bin/ray", line 8, in <module>
+    sys.exit(main())
+  File "/home/zzw/anaconda3/envs/zzw_agbird/lib/python3.6/site-packages/ray/scripts/scripts.py", line 1028, in main
+    return cli()
+  File "/home/zzw/anaconda3/envs/zzw_agbird/lib/python3.6/site-packages/click/core.py", line 829, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/zzw/anaconda3/envs/zzw_agbird/lib/python3.6/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/zzw/anaconda3/envs/zzw_agbird/lib/python3.6/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/zzw/anaconda3/envs/zzw_agbird/lib/python3.6/site-packages/click/core.py", line 1066, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/zzw/anaconda3/envs/zzw_agbird/lib/python3.6/site-packages/click/core.py", line 610, in invoke
+    return callback(*args, **kwargs)
+  File "/home/zzw/anaconda3/envs/zzw_agbird/lib/python3.6/site-packages/ray/scripts/scripts.py", line 423, in start
+    services.check_version_info(redis_client)
+  File "/home/zzw/anaconda3/envs/zzw_agbird/lib/python3.6/site-packages/ray/services.py", line 628, in check_version_info
+    raise RuntimeError(error_message)
+RuntimeError: Version mismatch: The cluster was started with:
+    Ray: 0.8.5
+    Python: 3.8.5
+This process on node 192.168.1.3 was started with:
+    Ray: 0.8.5
+    Python: 3.6.9
+
+Starting python script
+python: can't open file 'main_selfplay_combined.py': [Errno 2] No such file or directory
+Ended python script
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-24 23:03:00,027	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-24 23:03:01,060	INFO resource_spec.py:204 -- Starting Ray with 188.23 GiB memory available for workers and up to 80.67 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-24 23:03:01,081	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-24 23:06:03,931	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-24 23:06:04,962	INFO resource_spec.py:204 -- Starting Ray with 188.18 GiB memory available for workers and up to 80.65 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-24 23:06:04,982	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-24 23:19:18,267	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-24 23:19:19,299	INFO resource_spec.py:204 -- Starting Ray with 188.13 GiB memory available for workers and up to 80.64 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-24 23:19:19,320	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-24 23:26:50,843	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-24 23:26:51,875	INFO resource_spec.py:204 -- Starting Ray with 187.7 GiB memory available for workers and up to 80.44 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-24 23:26:51,897	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-24 23:30:03,003	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-24 23:30:04,034	INFO resource_spec.py:204 -- Starting Ray with 187.79 GiB memory available for workers and up to 80.48 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-24 23:30:04,057	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-24 23:39:20,123	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-24 23:39:21,154	INFO resource_spec.py:204 -- Starting Ray with 188.04 GiB memory available for workers and up to 80.6 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-24 23:39:21,175	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-24 23:45:54,619	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-24 23:45:55,651	INFO resource_spec.py:204 -- Starting Ray with 186.77 GiB memory available for workers and up to 80.06 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-24 23:45:55,671	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-24 23:51:25,435	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-24 23:51:26,466	INFO resource_spec.py:204 -- Starting Ray with 187.4 GiB memory available for workers and up to 80.33 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-24 23:51:26,487	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-24 23:55:30,299	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-24 23:55:31,330	INFO resource_spec.py:204 -- Starting Ray with 187.94 GiB memory available for workers and up to 80.56 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-24 23:55:31,352	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-24 23:58:02,459	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-24 23:58:03,488	INFO resource_spec.py:204 -- Starting Ray with 187.99 GiB memory available for workers and up to 80.57 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-24 23:58:03,509	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-25 00:14:46,747	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-25 00:14:47,778	INFO resource_spec.py:204 -- Starting Ray with 187.89 GiB memory available for workers and up to 80.54 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-25 00:14:47,798	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-25 00:17:04,251	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-25 00:17:05,282	INFO resource_spec.py:204 -- Starting Ray with 187.89 GiB memory available for workers and up to 80.54 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-25 00:17:05,303	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-25 00:20:16,123	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-25 00:20:17,152	INFO resource_spec.py:204 -- Starting Ray with 187.89 GiB memory available for workers and up to 80.53 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-25 00:20:17,172	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-25 00:41:20,220	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-25 00:41:21,248	INFO resource_spec.py:204 -- Starting Ray with 187.79 GiB memory available for workers and up to 80.5 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-25 00:41:21,268	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-25 00:46:49,883	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-25 00:46:50,914	INFO resource_spec.py:204 -- Starting Ray with 187.74 GiB memory available for workers and up to 80.47 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-25 00:46:50,936	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-25 00:49:47,131	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-25 00:49:48,163	INFO resource_spec.py:204 -- Starting Ray with 187.7 GiB memory available for workers and up to 80.46 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-25 00:49:48,184	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-25 00:52:14,203	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-25 00:52:15,234	INFO resource_spec.py:204 -- Starting Ray with 187.7 GiB memory available for workers and up to 80.46 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-25 00:52:15,255	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-25 00:57:58,395	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-25 00:57:59,426	INFO resource_spec.py:204 -- Starting Ray with 187.4 GiB memory available for workers and up to 80.32 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-25 00:57:59,446	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-25 11:02:29,243	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-25 11:02:30,274	INFO resource_spec.py:204 -- Starting Ray with 184.91 GiB memory available for workers and up to 79.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-25 11:02:30,295	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-25 23:16:40,923	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-25 23:16:41,969	INFO resource_spec.py:204 -- Starting Ray with 758.64 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-25 23:16:41,990	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-25 23:20:21,563	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-25 23:20:22,594	INFO resource_spec.py:204 -- Starting Ray with 758.59 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-25 23:20:22,614	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-26 00:32:12,283	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-26 00:32:13,315	INFO resource_spec.py:204 -- Starting Ray with 757.76 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-26 00:32:13,337	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-26 00:35:50,459	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-26 00:35:51,491	INFO resource_spec.py:204 -- Starting Ray with 757.71 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-26 00:35:51,512	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-26 00:37:37,947	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-26 00:37:38,980	INFO resource_spec.py:204 -- Starting Ray with 757.71 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-26 00:37:39,003	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-26 01:00:41,659	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-26 01:00:42,691	INFO resource_spec.py:204 -- Starting Ray with 757.42 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-26 01:00:42,714	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-26 01:04:06,363	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-26 01:04:07,395	INFO resource_spec.py:204 -- Starting Ray with 757.42 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-26 01:04:07,416	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-26 01:28:40,123	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-26 01:28:41,153	INFO resource_spec.py:204 -- Starting Ray with 757.13 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-26 01:28:41,175	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-26 01:30:23,803	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-26 01:30:24,835	INFO resource_spec.py:204 -- Starting Ray with 757.13 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-26 01:30:24,856	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
+Restarting k8s cluster
+service "ray-head-selfplay" deleted
+deployment.apps "ray-head-selfplay" deleted
+deployment.apps "ray-worker-selfplay" deleted
+service/ray-head-selfplay created
+deployment.apps/ray-head-selfplay created
+deployment.apps/ray-worker-selfplay created
+2021-04-26 01:41:39,579	INFO scripts.py:428 -- Using IP address 192.168.1.3 for this node.
+2021-04-26 01:41:40,611	INFO resource_spec.py:204 -- Starting Ray with 756.93 GiB memory available for workers and up to 186.26 GiB for objects. You can adjust these settings with ray.init(memory=<bytes>, object_store_memory=<bytes>).
+2021-04-26 01:41:40,633	INFO scripts.py:438 -- 
+Started Ray on this node. If you wish to terminate the processes that have been started, run
+
+    ray stop
